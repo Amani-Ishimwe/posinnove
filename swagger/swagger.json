@@ -81,6 +81,11 @@
     "/logout": {
       "post": {
         "summary": "Logout the user",
+         "security": [
+          {
+            "bearerAuth": []
+          }
+        ],
         "responses": {
           "200": {
             "description": "Logged out successfully"

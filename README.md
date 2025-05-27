@@ -1,4 +1,4 @@
-# Node.js Auth API with JWT
+# Posinnove User Authentication API with JWT
 
 Welcome! This is a simple yet solid authentication system built using **Node.js**, **Express**, **MongoDB**, and **JWT**. It lets users register, log in, and log out securely, with hashed passwords and protected routes.
 
