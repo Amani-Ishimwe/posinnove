@@ -1,0 +1,5 @@
+{
+    "port":3000,
+    "MongoURI":"mongodb://localhost:27017/Posinnove",
+    "jwtSecret":"your_jwt_secret"
+}

@@ -1,0 +1,5 @@
+{
+    "port":8080,
+    "MongoURI":"Cloudbased database",
+    "jwtSecret":"production_secret_key"
+}
