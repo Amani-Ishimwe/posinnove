@@ -46,4 +46,5 @@ Welcome! This is a simple yet solid authentication system built using **Node.js*
 git clone <your-repo-url>
 cd <project-folder>
 npm install
+run "npm run dev or npm run debug "
 ```
